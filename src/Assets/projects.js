@@ -5,7 +5,7 @@ const AbujaServices = [
     id: 1,
     title: 'Plumbing',
     description: 'We provide expert plumbing services for residential and commercial properties in Abuja.',
-    imageUrl: 'https://via.placeholder.com/150',
+    imageUrl: './assets/images/plumbing.jpg',
     price: 'Starting from ₦20,000',
   },
   {
